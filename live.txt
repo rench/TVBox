@@ -1,5 +1,8 @@
-四川新闻,#genre#
+四川ALL,#genre#
 四川新闻,https://tvshow.scgchc.com/hdlive/sctv48f9fb5888dedbe0c6a1b/1.m3u8?auth_key=1705405443-1517580-0-2bb36a4cbc0b7e4dace9344dc3eb8e33
+CDTV-1,https://3ge3dnmtt8y3nhctufa3do.ourdvsss.com/cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=6f54943c3a9f085865e9b0fbf6e940c1&wsTime=65a66da5&wsSession=1993661322ca1963949582b6-170540586129361&wsIPSercert=8b7cf4307bd0c2c4fa415ac3e539c57d&wsiphost=local&wsBindIP=1
+CDTV-3,https://3ge3dnmtt8y3nhctufa3un.ourdvsss.com/cdn1.cditv.cn/cdtv3high/CDTV3High.flv/101320.ts?wsSecret=3ca42af64e2f1688568b74d1a5ebc66b&wsTime=65a66e0f&wsSession=b032c367c82888d1bf98c029-170540596732896&wsIPSercert=8b7cf4307bd0c2c4fa415ac3e539c57d&wsBindIP=1&wsApp=HLS&wsiphost=local
+CDTV-5,https://cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?wsSecret=590f700fc05f507436f4f993dbf1d74f&wsTime=65a66dd9
 央视频道,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?icpid=3&RTS=1674379784&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1925441929_1417964840/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1674386335&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
